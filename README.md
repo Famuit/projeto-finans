@@ -1,3 +1,3 @@
 # Projeto site de finanças
-Site responsivo
+Site responsivo.
 Link: https://famuit.github.io/projeto-finans/
